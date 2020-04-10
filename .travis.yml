@@ -1,8 +1,7 @@
 language: node_js
 
 node_js:
-  - node
-  - lts/*
+  - 12
 
 install:
   - SKIP_SETUP=true npm install
