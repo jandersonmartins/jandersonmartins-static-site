@@ -6,4 +6,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jandersonmartins10@gmail.com)](mailto:jandersonmartins10@gmail.com)
 
 
-> Bachelor’s degree in System Analysis. I’ve been working with Back- end and Front-end since 2014 and mobile since 2018. Currently, I’m Front-End at Edusynch and Levely.
+> Bachelor’s degree in System Analysis. I’ve been working with Back- end and Front-end since 2014 and mobile since 2018. Currently, I’m Full Stack Developer at Edusynch and Levely.
